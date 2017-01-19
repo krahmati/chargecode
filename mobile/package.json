@@ -1,7 +1,7 @@
 {
-  "name": "mobile",
+  "name": "chargecode",
   "version": "1.1.1",
-  "description": "mobile: An Ionic project",
+  "description": "ChargeCode: A new way for charging cell phone credit.",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
